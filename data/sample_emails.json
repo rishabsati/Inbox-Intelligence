@@ -1,0 +1,86 @@
+[
+  {
+    "id": "sample-001",
+    "sender": "Maria Chen <maria.chen@brightviewproperties.com>",
+    "subject": "Re: Security deposit return timeline",
+    "date": "2026-05-12",
+    "body": "Hi, thanks for giving notice. Per the lease, your $1,800 security deposit will be returned within 21 days of move-out, minus any deductions for damage beyond normal wear and tear. Please schedule a move-out walkthrough with me before June 1st so we can document the unit's condition together. Let me know a few times that work for you this week."
+  },
+  {
+    "id": "sample-002",
+    "sender": "Prof. David Okafor <d.okafor@stateuniversity.edu>",
+    "subject": "Extension on final project - approved",
+    "date": "2026-05-20",
+    "body": "Hi, I'm approving your request for a 5-day extension on the final project given the documented circumstances. New deadline is June 10th at 11:59pm, no further extensions will be granted. Please still attend the project showcase on June 12th to present your work to the class."
+  },
+  {
+    "id": "sample-003",
+    "sender": "Priya Nair <priya.nair@northstar-tech.com>",
+    "subject": "Q3 report - need your section by Friday",
+    "date": "2026-06-02",
+    "body": "Hi team, reminder that I need everyone's section of the Q3 report finalized by end of day Friday so I can compile and send to leadership Monday morning. Please focus especially on the metrics table, last version had stale numbers from Q2. Ping me if you're blocked on anything."
+  },
+  {
+    "id": "sample-004",
+    "sender": "Netflix <info@netflix.com>",
+    "subject": "Your plan price is changing",
+    "date": "2026-05-28",
+    "body": "Starting with your next billing date of June 15, 2026, your Premium plan will increase from $19.99 to $22.99 per month. No action is needed if you'd like to keep your current plan. You can change or cancel your plan anytime in your account settings."
+  },
+  {
+    "id": "sample-005",
+    "sender": "Riverside Dental <appointments@riversidedental.com>",
+    "subject": "Appointment reminder - June 8th",
+    "date": "2026-06-01",
+    "body": "This is a reminder of your upcoming cleaning and checkup appointment with Dr. Patel on June 8th at 2:30pm. Please arrive 10 minutes early to fill out updated insurance paperwork. If you need to reschedule, call us at least 24 hours in advance."
+  },
+  {
+    "id": "sample-006",
+    "sender": "Sara (sister) <sara.familyemail@gmail.com>",
+    "subject": "Family reunion - July 19th, need a headcount",
+    "date": "2026-05-30",
+    "body": "Hey! Mom wants a final headcount for the family reunion by June 20th so she can order enough food. It's happening July 19th at the lake house starting at noon. Let me know if you're bringing anyone, and if you can grab the folding tables from Dad's garage on your way."
+  },
+  {
+    "id": "sample-007",
+    "sender": "Jordan Lee <jordan.lee@talentbridge-recruiting.com>",
+    "subject": "Following up after your interview - next steps",
+    "date": "2026-05-25",
+    "body": "It was great speaking with you and the team yesterday. The hiring panel was impressed with your project walkthrough. Next step is a final call with the VP of Engineering, we're targeting the week of June 9th. I'll send a calendar invite once I confirm her availability. In the meantime, let me know if you have any questions about the offer structure."
+  },
+  {
+    "id": "sample-008",
+    "sender": "IT Security <noreply-it@company-internal.com>",
+    "subject": "Action required: password reset within 7 days",
+    "date": "2026-06-03",
+    "body": "Our records show your account password was last changed over 90 days ago. Per company policy, please reset your password within 7 days to avoid account lockout. Use the self-service portal at id.company-internal.com to update your credentials. Contact the helpdesk if you're locked out."
+  },
+  {
+    "id": "sample-009",
+    "sender": "DevSummit 2026 <registration@devsummit.io>",
+    "subject": "You're registered! Conference details inside",
+    "date": "2026-05-15",
+    "body": "Thanks for registering for DevSummit 2026, happening August 4-6 in Austin, TX. Your badge will be available for pickup starting 8am on August 4th. The keynote on applied AI systems is scheduled for 9:30am day one. Hotel room block discount code is DEVSUMMIT26, valid until July 1st."
+  },
+  {
+    "id": "sample-010",
+    "sender": "CityPower Electric <billing@citypower.com>",
+    "subject": "Your bill is ready - due June 25",
+    "date": "2026-06-05",
+    "body": "Your electricity bill for the May billing cycle is $142.37, due June 25, 2026. Usage was 18% higher than last month, likely due to increased AC use. Set up autopay to avoid late fees and a 2% discount will be applied automatically."
+  },
+  {
+    "id": "sample-011",
+    "sender": "PeakFit Gym <member-services@peakfitgym.com>",
+    "subject": "Membership auto-renews June 30th",
+    "date": "2026-06-04",
+    "body": "Your annual membership will automatically renew on June 30th at the current rate of $49/month. If you'd like to switch plans, pause, or cancel, please do so before June 25th in the member portal or by visiting the front desk. Note that cancellations require 10 business days notice."
+  },
+  {
+    "id": "sample-012",
+    "sender": "SkyLine Airlines <notifications@skylineair.com>",
+    "subject": "Flight change: SK482 departure time updated",
+    "date": "2026-06-06",
+    "body": "Your flight SK482 on June 14th from SFO to JFK has been moved from 6:45am to 8:15pm due to aircraft scheduling. Your arrival time is now 4:40am the next day. Your seat assignment and confirmation number remain unchanged. We apologize for the inconvenience."
+  }
+]

@@ -1,0 +1,22 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.8.2
+python-dotenv==1.0.1
+
+# RAG / orchestration
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-openai==0.1.17
+langchain-text-splitters==0.2.2
+
+# Vector store + embeddings
+chromadb==0.5.3
+sentence-transformers==3.0.1
+
+# Gmail API
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+google-api-python-client==2.137.0
+
+# Experiment tracking
+wandb==0.17.5
