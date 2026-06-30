@@ -10,7 +10,7 @@ Swapping providers only changes get_llm() -- the retrieval and prompt
 logic stay identical, which is the point of using LangChain's
 abstractions instead of hand-rolling provider-specific code.
 """
-from langchain_classic.chains import RetrievalQA
+from langchain.chains import RetrievalQA
 from langchain_core.prompts import PromptTemplate
 
 from app.config import settings
