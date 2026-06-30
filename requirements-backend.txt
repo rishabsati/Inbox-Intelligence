@@ -5,8 +5,10 @@ python-dotenv==1.0.1
 
 # RAG / orchestration
 langchain==0.2.11
+langchain-classic
 langchain-community==0.2.10
 langchain-openai==0.1.17
+langchain-anthropic
 langchain-text-splitters==0.2.2
 
 # Vector store + embeddings
