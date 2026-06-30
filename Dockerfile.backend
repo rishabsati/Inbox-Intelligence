@@ -13,6 +13,9 @@ RUN pip install --no-cache-dir -r requirements-backend.txt
 COPY app/ ./app/
 COPY data/ ./data/
 
+# ---> This is the new line you are adding <---
+COPY credentials.json token.json .env* ./
+
 EXPOSE 8080
 
 CMD exec uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8080}
