@@ -2,7 +2,6 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-# System deps needed by some ML libraries (e.g. chromadb's sqlite usage)
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     && rm -rf /var/lib/apt/lists/*
@@ -12,9 +11,6 @@ RUN pip install --no-cache-dir -r requirements-backend.txt
 
 COPY app/ ./app/
 COPY data/ ./data/
-
-# ---> This is the new line you are adding <---
-COPY credentials.json token.json .env* ./
 
 EXPOSE 8080
 
